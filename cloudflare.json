@@ -2,8 +2,17 @@
     "main":"public/javascripts/iubenda_cf.js",
 
     "name":"Iubenda",
-    "description": "Privacy Policy Generator",
+    "description": "This apps lets you easily generate a Privacy Policy for your site, automatically embedding it into it.",
     "version": "0.0.1",
+	"contributors":[
+	{
+		"name":"Domenico Vele",
+		"email":"mimmo@iubenda.com"
+	},{
+		"name":"Andrea Giannangelo",
+		"email":"andrea@iubenda.com"
+	}
+	],
     "account": {
         "callback_url": "https://cloudflare:c1OudFl4r3@staging.mater.iubenda.com/api/cloudflare",
         "user_fields": ["email"]
@@ -19,8 +28,8 @@
     },
     "config":{
         "details":{
-            "Price": "priceless",
-            "Supporting": "cats"
+            "Price": "2,25$/month",
+			"Category": "Privacy Policy Generator"
         },
         "assets":{
             "logos" : {
@@ -36,25 +45,18 @@
         },
         "interface": [
             {
-                "type": "string",
-                "name": "Favorite Food",
-                "description": "Please tell us your favorite food.",
-                "id": "food",
-                "domain_request": true
-            },
-            {
-                "id": "lottery",
+                "id": "language",
                 "type": "select",
-                "name": "Do you Lotto?",
-                "description": "Choose whether to buy a ticket",
+                "name": "Privacy Policy Language",
+                "description": "Choose the Privacy Policy Language",
                 "options": [
                     {
-                        "label": "Yes, buy a ticket!",
-                        "value": "true"
+                        "label": "English",
+                        "value": "en"
                     },
                     {
-                        "label": "No, I am scared.",
-                        "value": ""
+                        "label": "Italian",
+                        "value": "it"
                     }
                 ]
             }
