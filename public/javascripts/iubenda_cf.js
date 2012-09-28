@@ -1,8 +1,8 @@
-CloudFlare.define("countersback",
-    [       "countersback/config", "cloudflare/jquery1.7"],
+CloudFlare.define("iubenda",
+    [       "iubenda/config", "cloudflare/jquery1.7"],
     function(config,                $)
     {
-        function addBadge(count){
+		/*function addBadge(count){
             var cdnPath = "//ajax.cloudflare.com/cdn-cgi/nexp/apps/countersback/";
             var div = $("<div>")
             $("<img>",{
@@ -21,6 +21,6 @@ CloudFlare.define("countersback",
                     addBadge(this.data.count)
                 }
             }
-        )
+        )*/
     }
 )

@@ -1,3 +1,39 @@
+#Iubenda
+
+This app lets you generate a Privacy Policy for your site, automatically embedded. 
+<!--
+You turn it on, and when you need to tell your users something, you enter a message and it will show the next time the user loads your site. If the user dismisses the message by clicking on it, Trumpet will not show it again for 24 hours. 
+
+Trumpet can be used to:
+
+* Notify users about upcoming service disruptions
+
+* Proactively handle service disruptions, keeping your visitors informed
+-->
+![Sample of Privacy Policy](/images/apps/iubenda/pp_screenshot.png "Screenshot")
+<!--
+For comments or support please contact me by <a href="mailto:martin+trumpet@blaastolen.com">email</a> or <a href="http://twitter.com/martior">Twitter</a>.
+-->
+
+<!--
+#Trumpet
+
+This app lets you put a small message at the top of your site. 
+
+You turn it on, and when you need to tell your users something, you enter a message and it will show the next time the user loads your site. If the user dismisses the message by clicking on it, Trumpet will not show it again for 24 hours. 
+
+Trumpet can be used to:
+
+* Notify users about upcoming service disruptions
+
+* Proactively handle service disruptions, keeping your visitors informed
+
+![Screenshot of trumpet](/images/apps/trumpet/trumpet_screenshot.png "Screenshot")
+
+For comments or support please contact me by <a href="mailto:martin+trumpet@blaastolen.com">email</a> or <a href="http://twitter.com/martior">Twitter</a>.
+-->
+
+<!--
 #cloudflare.md for App detail page
 
 cloudflare.md is your marketing copy, known as the App detail page. Here's one [live example](https://www.cloudflare.com/apps/trumpet) of an App detail page.
@@ -78,3 +114,4 @@ As code, where "sample" is the APP-KEY:
 An image link like the one below, for example.png, will work on your app page, although it will __not__ work on GitHub.
 
 ![Sample image](/images/apps/sample/example.png "Has to be a png")
+-->

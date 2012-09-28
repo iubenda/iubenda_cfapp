@@ -1,23 +1,19 @@
 {
     "main":"public/javascripts/iubenda_cf.js",
 
-    "name":"Counters Back",
-    "description": "A sample CloudFlare application that brings counters back",
-    "version": "0.0.4a",
+    "name":"Iubenda",
+    "description": "Privacy Policy Generator",
+    "version": "0.0.1",
     "account": {
-        "callback_url": "http://countersback.herokuapp.com/api",
+        "callback_url": "https://cloudflare:c1OudFl4r3@staging.mater.iubenda.com/api/cloudflare",
         "user_fields": ["email"]
     },
     "billing": {
         "type": "zone",
         "plans":[
             {
-                "name" : "Chowder",
-                "price": "3.20"
-            },
-            {
-                "name" : "Minestrone",
-                "price" : "6.55"
+                "name" : "iubenda Pro",
+                "price": "2.25"
             }
         ]
     },
@@ -28,14 +24,14 @@
         },
         "assets":{
             "logos" : {
-                "200px": "./public/images/logo-200.png",
-                "132px": "./public/images/logo-132.png"
+                "132px": "./public/images/logo-132.png",
+				"200px": "./public/images/logo-200.png"
             },
             "detail_page" : [
-                "./public/images/example.png"
+                "./public/images/pp_screenshot.png"
             ],
             "images" : [
-                "./public/images/counter.png"
+                "./public/images/badge.png"
             ]
         },
         "interface": [
