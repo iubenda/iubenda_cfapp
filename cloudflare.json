@@ -37,10 +37,8 @@
                 "200px": "./public/images/logo-200.png"
             },
             "detail_page" : [
-                "./public/images/pp_screenshot.png"
-            ],
-            "images" : [
-                "./public/images/badge.png"
+                "./public/images/pp_screenshot_simple.png"
+                "./public/images/pp_screenshot_full.png"
             ]
         },
         "interface": [
