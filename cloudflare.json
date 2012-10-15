@@ -2,7 +2,7 @@
     "main":"public/javascripts/iubenda_cf.js",
 
     "name":"Iubenda",
-    "description": "This apps lets you easily generate a Privacy Policy for your site, automatically embedding it into it.",
+    "description": "Every website needs a privacy policy. It's the law, everywhere. Iubenda lets you generate one in seconds, beautifully designed, customized on your needs and remotely maintained by a legal team.",
     "version": "0.0.1",
 	"contributors":[
 	{
@@ -29,12 +29,12 @@
     "config":{
         "details":{
             "Price": "2,25$/month",
-			"Category": "Privacy Policy Generator"
+            "Category": "Privacy Policy Generator"
         },
         "assets":{
             "logos" : {
                 "132px": "./public/images/logo-132.png",
-				"200px": "./public/images/logo-200.png"
+                "200px": "./public/images/logo-200.png"
             },
             "detail_page" : [
                 "./public/images/pp_screenshot.png"
