@@ -45,18 +45,19 @@
         },
         "interface": [
             {
-                "id": "language",
+                "id": "skip_badge",
                 "type": "select",
-                "name": "Privacy Policy Language",
-                "description": "Choose the Privacy Policy Language",
+                "name": "Skip iubenda badge.",
+                "description": "Avoid adding iubenda badge to the site.",
                 "options": [
                     {
-                        "label": "English",
-                        "value": "en"
+                        "label": "Off",
+                        "value": false,
+						"selected": true
                     },
                     {
-                        "label": "Italian",
-                        "value": "it"
+                        "label": "On",
+                        "value": true
                     }
                 ]
             }

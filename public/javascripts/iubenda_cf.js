@@ -9,7 +9,11 @@ CloudFlare.define("iubenda",
 		}
 		function lookForBadge(){
 			console.log("looking for...")
-			if(!$(".iubenda-ibadge")[0] && !$(".iubenda-embed")[0] && !$("#iubenda-embed")[0]){addBadge();}
+			if(!config.skip_badge){
+				if(!$(".iubenda-ibadge")[0] && !$(".iubenda-embed")[0] && !$("#iubenda-embed")[0]){
+					addBadge();
+					}
+			}
 		}
 		lookForBadge();
     }
