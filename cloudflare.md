@@ -1,3 +1,5 @@
+![Generate a privacy policy in seconds. Easy, fast, beautiful](/images/apps/iubenda/headline.png "Generate a privacy policy in seconds. Easy, fast, beautiful")
+
 Every website needs a privacy policy. It's the law, everywhere. Iubenda lets you generate one in seconds, beautifully designed, customized on your needs and remotely maintained by a legal team.
 
 
