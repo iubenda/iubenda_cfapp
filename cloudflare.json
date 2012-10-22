@@ -37,9 +37,9 @@
                 "200px": "./public/images/logo-200.png"
             },
             "detail_page" : [
-                "./public/images/pp_screenshot_simple.png",
-                "./public/images/pp_screenshot_full.png",
-                "./public/images/headline.png"
+                "./public/images/pp_screenshot_simple-1.png",
+                "./public/images/pp_screenshot_full-1.png",
+                "./public/images/headline-1.png"
             ]
         },
         "interface": [
