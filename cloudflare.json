@@ -2,7 +2,7 @@
     "main":"public/javascripts/iubenda_cf.js",
     "name":"iubenda",
     "category":"policy management",
-    "description": "Every website needs a privacy policy. It's the law, everywhere. Iubenda lets you generate one in seconds, beautifully designed, customized on your needs and remotely maintained by a legal team. This app will add a minimal privacy policy to your website right after the setup, as a badge attached to the lower border, and send you an email right after that will give you instruction on how to customize the result and integrate seamlessly integrate it with your website.",
+    "description": "Every website needs a privacy policy. It's the law, everywhere. Iubenda lets you generate one in seconds, beautifully designed, customized on your needs and remotely maintained by a legal team.",
     "version": "0.0.7",
 	"contributors":[
 	{
@@ -46,8 +46,8 @@
             {
                 "id": "skip_badge",
                 "type": "select",
-                "name": "Skip iubenda badge.",
-                "description": "Automatically embed the privacy policy widget on every page:",
+                "name": "Privacy policy widget",
+                "description": "Automatically embed the privacy policy widget on every page",
                 "options": [
                     {
                         "label": "Yes",
