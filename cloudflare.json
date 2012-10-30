@@ -3,7 +3,7 @@
     "name":"iubenda",
     "category":"policy management",
     "description": "Every website needs a privacy policy. It's the law, everywhere. Iubenda lets you generate one in seconds, beautifully designed, customized on your needs and remotely maintained by a legal team. This app will add a minimal privacy policy to your website right after the setup, as a badge attached to the lower border, and send you an email right after that will give you instruction on how to customize the result and integrate seamlessly integrate it with your website.",
-    "version": "0.0.6",
+    "version": "0.0.7",
 	"contributors":[
 	{
 		"name":"Domenico Vele",
