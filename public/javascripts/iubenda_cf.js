@@ -11,7 +11,11 @@ CloudFlare.define("iubenda",
 		}
 		function lookForBadge(){
 			console.log("looking for adding badge...");
-			if(!_config.skip_badge){
+			console.log("_config.skip_badge: "+_config.skip_badge);
+			console.log("_config.skip_badge type:"+typeof(_config.skip_badge));
+			if(_config.skip_badge=="true"){
+				console.log("badge skipped by configuration!");
+			}else{
 				if(!$(".iubenda-ibadge")[0] && !$(".iubenda-embed")[0] && !$("#iubenda-embed")[0]){
 					console.log("other badge or pp embedded not found. Calling addBadge()...");
 					addBadge();
@@ -24,8 +28,6 @@ CloudFlare.define("iubenda",
 					console.log("!$('#iubenda-embed')[0]");
 					console.log(!$("#iubenda-embed")[0]);
 				}
-			}else{
-				console.log("badge skipped by configuration!");
 			}
 		}
 		lookForBadge();
