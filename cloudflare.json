@@ -28,8 +28,9 @@
     },
     "config":{
         "details":{
-            "Price": "2,25$/month",
-            "Category": "Privacy Policy Generator"
+            "Price": "$2.25/month",
+            "Category": "Privacy Policy Generator",
+            "Restrictions": "None"
         },
         "assets":{
             "logos" : {
