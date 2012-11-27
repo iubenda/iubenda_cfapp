@@ -39,13 +39,13 @@ The monthly price, moreover, allows us to keep the entry price of our service ve
 ### So, how does it work exactly?
 
 When you purchase iubenda for your website, a minimal privacy policy is generated and added to your website (attached to one of the window borders). An email is then sent to your email address with all the information required to furtherly configure your privacy policy and customize it depending on your needs. The privacy policy generated is hosted on our servers, so that we can keep it up to date in case the law changes, and help you remotely edit it.
-About integrating the privacy policy with your website, there are a few different options. By default, cloudflare inserts a code that shows a privacy policy link attached to one of the window borders. You can also override this option by integrating the embedding code provided at the end of the configuration process, that lets you place the link to the privacy policy wherever you want and even embed the privacy policy text right into one of your pages.
+About integrating the privacy policy with your website, there are a few different options. By default, CloudFlare inserts a code that shows a privacy policy link attached to one of the window borders. You can also override this option by integrating the embedding code provided at the end of the configuration process, that lets you place the link to the privacy policy wherever you want and even embed the privacy policy text right into one of your pages.
 
 ### How do I integrate the privacy policy with my website?
 
 There are several ways to do it:
 
-*   **Default way:** cloudflare automatically embeds a code on your website (that you can also choose to disable) that shows a privacy policy badge attached to one of the window borders. If clicked, the badge shows the privacy policy.
+*   **Default way:** CloudFlare automatically embeds a code on your website (that you can also choose to disable) that shows a privacy policy badge attached to one of the window borders. If clicked, the badge shows the privacy policy.
 *   **Custom code from our website:** the default option is not so flexible, but if you follow the configuration steps (sent via email right after purchasing the service) you can grab an embedding code that you can place wherever you want or even use the direct policy URL for linking the policy.
 *   **Direct text embedding:** in case you don't like integrating the privacy policy as an external link, we offer an option for embedding the privacy policy text right into a page you define. You just need to grab the direct text embedding code from the last configuration step (see the instructions sent via email after activating the service) and paste it into one of your pages' code. You can find a preview <a href="https://www.iubenda.com/en/help/posts/78">here</a>.
 
