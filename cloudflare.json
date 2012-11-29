@@ -3,7 +3,7 @@
     "name":"iubenda",
     "category":"policy management",
     "description": "Every website needs a privacy policy. It's the law, everywhere. Iubenda lets you generate one in seconds, beautifully designed, customized on your needs and remotely maintained by a legal team.",
-    "version": "1.0.3",
+    "version": "1.0.4",
 	"contributors":[
 	{
 		"name":"Domenico Vele",
