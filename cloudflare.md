@@ -1,6 +1,6 @@
 ![Generate a privacy policy in seconds. Easy, fast, beautiful](/images/apps/iubenda/headline-1.png "Generate a privacy policy in seconds. Easy, fast, beautiful")
 
-Every website needs a privacy policy. It's the law, everywhere. Iubenda lets you generate one in seconds, beautifully designed, customized on your needs and remotely maintained by a legal team. This app will add a minimal privacy policy to your website right after the setup, as a badge attached to the lower border, and send you an email right after that will give you instruction on how to customize the result and integrate seamlessly integrate it with your website.
+Every website needs a privacy policy. It's the law, everywhere. Iubenda lets you generate one in seconds, beautifully designed, customized on your needs and remotely maintained by a legal team. This app will add a minimal privacy policy to your website right after the setup, as a badge attached to the lower border, and send you an email right after that will give you instruction on how to customize the result and seamlessly integrate it with your website.
 
 ### Does my website need a privacy policy?
 
