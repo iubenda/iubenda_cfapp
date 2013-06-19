@@ -2,7 +2,7 @@
     "main":"public/javascripts/iubenda_cf.js",
     "name":"iubenda",
     "category":"policy management",
-    "description": "Every website needs a privacy policy. It's the law, everywhere. Iubenda lets you generate one in seconds, beautifully designed, customized on your needs and remotely maintained by a legal team.",
+    "description": "Every website needs a privacy policy. It's the law, everywhere. Iubenda lets you generate one in seconds, beautifully designed, customized to your needs and remotely maintained by a legal team.",
     "version": "1.0.5",
 	"contributors":[
 	{
